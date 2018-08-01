@@ -26,3 +26,5 @@ figcaption {
 }
 
 /*Class selector (applied to as many elements as you like)*/
+
+.milk-text { /* select elements with a class ="milk-text"}
